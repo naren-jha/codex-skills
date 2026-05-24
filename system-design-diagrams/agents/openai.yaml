@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Design Diagrams"
+  short_description: "Clean editable architecture diagrams"
+  default_prompt: "Use $system-design-diagrams to create an editable backend architecture diagram for..."
