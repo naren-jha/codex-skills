@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Pattern Identifier"
+  short_description: "Find simplification patterns in code"
+  default_prompt: "Use $design-pattern-identifier to analyze this module and recommend design patterns that simplify it."
